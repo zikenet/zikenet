@@ -10,7 +10,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,py,php,java,js,ts,go,dart" />
-    <img src="https://skillicons.dev/icons?i=dj,fastapi,figma,firebase,flutter,graphql,docker,kubernetes,laravel,mongodb,mysql,neovim,nodejs,postgres,react,vue" /><br>
+    <img src="https://skillicons.dev/icons?i=dj,fastapi,firebase,flutter,graphql,docker,kubernetes,laravel,mongodb,mysql,neovim,nodejs,postgres,react,vue" /><br>
 </div>
 
 <br/>
