@@ -9,8 +9,8 @@
 <h2 align="center">Languages-Frameworks-Tools️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,py,php,java,js,ts,go,dart" />
-    <img src="https://skillicons.dev/icons?i=dj,fastapi,firebase,flutter,graphql,docker,kubernetes,laravel,mongodb,mysql,neovim,nodejs,postgres,react,vue" /><br>
+    <img align="center" src="https://skillicons.dev/icons?i=html,css,py,php,java,js,ts,go,dart" />
+    <img align="center" src="https://skillicons.dev/icons?i=dj,fastapi,firebase,flutter,graphql,docker,kubernetes,laravel,mongodb,mysql,neovim,nodejs,postgres,react,vue" /><br>
 </div>
 
 <br/>
