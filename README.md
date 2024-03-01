@@ -8,12 +8,8 @@ I'm a freelancer and a full-stack developer with a passion for building digital 
 
 ### 🧰 Languages and Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,py,php,java,js,ts,go,dart,dj&perline=10" />
-    <img align="center" src="https://skillicons.dev/icons?i=fastapi,firebase,flutter,graphql,docker,kubernetes,laravel,mongodb,mysql,neovim,nodejs,postgres,react,vue&perline=10" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,py,php,java,js,ts,go,dart,dj,fastapi,firebase,flutter,graphql,docker,kubernetes,laravel,mongodb,mysql,neovim,nodejs,postgres,react,vue&perline=10" />
+
 <br />
 
 #
