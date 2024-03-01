@@ -8,30 +8,12 @@ I'm a freelancer and a full-stack developer with a passion for building digital 
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=html"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=css" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=py" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=php" />
-<img align="left" alt="JAVA" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=java" />
-<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=js" />
-<img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=ts" />
-<img align="left" alt="GO" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=go" />
-<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=dart" />
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=dj" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=firebase" />
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=flutter" />
-<img align="left" alt="GraphQL" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=graphql" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=docker" />
-<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=kubernetes" />
-<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=laravel" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mongodb" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mysql" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=neovim" />
-<img align="left" alt="Nodejs" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=nodejs" />
-<img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postgres" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=react" />
-<img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vue" />
-<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,py,php,java,js,ts,go,dart,dj&perline=10" />
+    <img align="center" src="https://skillicons.dev/icons?i=fastapi,firebase,flutter,graphql,docker,kubernetes,laravel,mongodb,mysql,neovim,nodejs,postgres,react,vue&perline=10" />
+  </a>
+</p>
 <br />
 
 #
