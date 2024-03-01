@@ -32,6 +32,7 @@ I'm a freelancer and a full-stack developer with a passion for building digital 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=react" />
 <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vue" />
 <br />
+<br />
 
 #
 
