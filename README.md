@@ -1,27 +1,40 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Isaac!;" />
-</h1>
+ 🦅 Zikenet
 
-<h3 align="center">A passionate software engineer that goes beyond just the basics to bring ideas to life.</h3>
+**`Digital Craftsman (Developer/Designer)`**
 
-<br/>
- 
-<h2 align="center">Languages-Frameworks-Tools️</h2>
-<br/>
-<div align="center">
-    <img align="center" src="https://skillicons.dev/icons?i=html,css,py,php,java,js,ts,go,dart" />
-    <img align="center" src="https://skillicons.dev/icons?i=dj,firebase,flutter,graphql,docker,kubernetes,laravel,mongodb,mysql,neovim,nodejs,postgres,react,vue" /><br>
-</div>
+I'm a freelancer and a full-stack developer with a passion for building digital services. Building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
-<br/>
+---
 
-<h2 align="center">Stats</h2>
-<br>
-<div align=center>
-<img width=390 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zikenet&theme=react&hide_border=true" alt="streak stats"/>
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=zikenet&theme=react&show_icons=true&hide_border=true&count_private=true&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zikenet&theme=react&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
-</div>
+### 🧰 Languages and Tools
 
-<br/>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=html"/>
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=css" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=py" />
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=php" />
+<img align="left" alt="JAVA" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=java" />
+<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=js" />
+<img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=ts" />
+<img align="left" alt="GO" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=go" />
+<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=dart" />
+<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=dj" />
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=firebase" />
+<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=flutter" />
+<img align="left" alt="GraphQL" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=graphql" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=docker" />
+<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=kubernetes" />
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=laravel" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mongodb" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mysql" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=neovim" />
+<img align="left" alt="Nodejs" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=nodejs" />
+<img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postgres" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=react" />
+<img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vue" />
+<br />
+
+#
+
+### 📊 Stats
+
+![Zikenet's GitHub stats](https://github-readme-stats.vercel.app/api?username=zikenet&show_icons=true&theme=gruvbox)
