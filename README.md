@@ -37,4 +37,4 @@ I'm a freelancer and a full-stack developer with a passion for building digital 
 
 ### 📊 Stats
 
-![Zikenet's GitHub stats](https://github-readme-stats.vercel.app/api?username=zikenet&show_icons=true&theme=gruvbox)
+![Zikenet's GitHub stats](https://github-readme-stats.vercel.app/api?username=zikenet&theme=react&show_icons=true&hide_border=true&count_private=true&rank_icon=github&border_radius=10)
